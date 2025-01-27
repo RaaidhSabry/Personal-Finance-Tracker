@@ -1,0 +1,1 @@
+{"groceries": [{"ID": 0, "amount": "250", "date": "2023-5-8"}, {"ID": 1, "amount": "5000", "date": "2023-5-7"}], "salary": [{"ID": 0, "amount": "260", "date": "2023-5-7"}]}
