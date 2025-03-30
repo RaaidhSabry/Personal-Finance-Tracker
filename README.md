@@ -30,8 +30,17 @@ Effortlessly manage your personal finances with this Python-based tracker. This 
 
 ## 📷 Screenshots
 
-![image](https://github.com/user-attachments/assets/46f688a6-5900-4a7f-bd76-c45d668fb3fd)
-![image](https://github.com/user-attachments/assets/bd0aeeaf-b4a3-4e6c-b1a7-b47aae990f3f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/53237c8a-de70-42f5-b102-4d4d5cd5e411" alt="Finance Tracker Screenshot 1" width="70%">
+ </p>
+ 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/46f688a6-5900-4a7f-bd76-c45d668fb3fd" alt="Finance Tracker Screenshot 2" width="70%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd0aeeaf-b4a3-4e6c-b1a7-b47aae990f3f" alt="Finance Tracker Screenshot 3" width="70%">
+</p>
 
 ---
 
